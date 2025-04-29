@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BackendDev_Case2_Bogani.props" />
+</Project>

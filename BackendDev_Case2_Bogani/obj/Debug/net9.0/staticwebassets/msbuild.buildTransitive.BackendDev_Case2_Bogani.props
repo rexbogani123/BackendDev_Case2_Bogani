@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BackendDev_Case2_Bogani.props" />
+</Project>
